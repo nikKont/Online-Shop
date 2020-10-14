@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874551458288",
+    "firebase_url": "https://myonlineshop-fda26.firebaseio.com",
+    "project_id": "myonlineshop-fda26",
+    "storage_bucket": "myonlineshop-fda26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874551458288:android:96cdd1d90ef68721910535",
+        "android_client_info": {
+          "package_name": "com.example.myonlineshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874551458288-v55cn9q08sd13vhr6494bc04piu79obc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myonlineshop",
+            "certificate_hash": "8b5e8071901f5e4bf286927b194513b23a2d376a"
+          }
+        },
+        {
+          "client_id": "874551458288-8k41c5md6dmgsm0j8la5udfpct4khgo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_rvuljJNkR42x4VGMgFjOkA0M9v_AKJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874551458288-8k41c5md6dmgsm0j8la5udfpct4khgo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
